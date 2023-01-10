@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=61EE5D&height=300&section=header&text=Jonghun%20Lim&fontSize=90" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=61EE5D&height=300&section=header&text=Jonghun%20Lim&fontSize=90" />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>&nbsp 
 </p>
 
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+</div>
