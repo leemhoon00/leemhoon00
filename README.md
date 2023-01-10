@@ -17,5 +17,5 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>&nbsp 
 </p>
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
