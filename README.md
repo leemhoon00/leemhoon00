@@ -22,4 +22,4 @@
 
 </div>
 
-<img src="./aws-certified-solutions-architect-associate.png" width="200" height="400" />
+<img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" />
