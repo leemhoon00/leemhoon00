@@ -21,3 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+![대체 텍스트](./aws-certified-solutions-architect-associate.png)
