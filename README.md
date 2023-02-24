@@ -21,5 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c233e40-84d8-46b9-8b3b-a81de9818eb0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c233e40-84d8-46b9-8b3b-a81de9818eb0" data-share-badge-host="https://www.credly.com"></div>
