@@ -1,5 +1,3 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=61EE5D&height=300&section=header&text=Jonghun%20Lim&fontSize=90" />
-
 <h3>📚 Tech Stack 📚</h3>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +17,7 @@
   <br>  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" />
 </div>
 
-<img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" />
+
