@@ -18,7 +18,7 @@
   <br>  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<a><img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" /><a/>
+<a href="https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url"><img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" /><a/>
 
 </div>
 
