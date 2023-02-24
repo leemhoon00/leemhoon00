@@ -22,4 +22,4 @@
 
 </div>
 
-![대체 텍스트](./aws-certified-solutions-architect-associate.png)
+<img src="./aws-certified-solutions-architect-associate.png" width="200" height="400" />
