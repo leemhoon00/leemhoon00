@@ -1,27 +1,49 @@
 <div align="center">
-  <h3>📚 Tech Stack 📚</h3>
-
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-
-  <br>  <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemhoon00&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url"><img src="./aws-certified-solutions-architect-associate.png" width="200" height="200" /><a/>
+  # 💻 Tech Stacks 💻 <br/>
+  
+  ### Main Languages
+  
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <br/><br/>
+  
+  ### Languages I've used least once
+  
+  <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=grey"/>
+  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+  <br/><br/>
+  
+  ### Frameworks
+  
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <br/><br/>
+  
+  ### Databases
+  
+  <img alt="Mysql" src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br/><br/>
+  
+  ### DevOps & Tools
+  
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img alt="VSC" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/><br/>
+  <br/><br/>
+  
+  ### Certifications
+  
+  <a href="https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url">
+    <img src="./aws-certified-solutions-architect-associate.png" width="200" height="200"/>
+  <a/>
+  <br/<br/>
 
 </div>
-
-
-
