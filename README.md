@@ -31,5 +31,3 @@
   <br/<br/>
 
 </div>
-
-![Snake animation](leemhoon00)
