@@ -31,4 +31,4 @@
   <br/<br/>
 
 </div>
-[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=leemhoon00&layout=compact&count_private=true)](https://wakatime.com/@leemhoon00)
+[![leemhoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leemhoon00)](https://github.com/anuraghazra/github-readme-stats)
