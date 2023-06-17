@@ -7,12 +7,7 @@
   <a/>
   <br/>
   
-  ### Main Languages
-  
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  
-  <br/> <br/>
+  <br/>
   
 [![leemhoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leemhoon00&layout=compact&count_private=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 </div>
