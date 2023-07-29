@@ -5,6 +5,9 @@
   <a href="https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url">
     <img src="./aws-certified-solutions-architect-associate.png" width="100" height="100"/>
   <a/>
+  <a href="https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url">
+    <img src="./aws-certified-developer-associate.png" width="100" height="100"/>
+  <a/>
   <br/>
   
   <br/>
