@@ -2,7 +2,6 @@
 
 - [RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript)
 
-<br>
 
 ### :bookmark: Certifications
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/9c233e40-84d8-46b9-8b3b-a81de9818eb0/public_url)
