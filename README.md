@@ -1,5 +1,5 @@
 <div align=center>
-  <a href="https://docs.google.com/document/d/1jt9m4EKJ-eN9xgDeXl8C1IIWQ58Dwgqqxc5jG9Nms4s/edit">
+  <a href="https://docs.google.com/document/d/1jt9m4EKJ-eN9xgDeXl8C1IIWQ58Dwgqqxc5jG9Nms4s/edit?usp=sharing">
   <img alt="Resume" src ="https://img.shields.io/badge/Resume-027DFD?&style=for-the-badge"/></a> 
   <a href="https://velog.io/@leemhoon00">
   <img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
